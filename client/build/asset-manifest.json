@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be34dabf.chunk.css",
+    "main.js": "/static/js/main.d87996cc.chunk.js",
+    "main.js.map": "/static/js/main.d87996cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20628b47.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20628b47.js.map",
+    "static/js/2.890f412a.chunk.js": "/static/js/2.890f412a.chunk.js",
+    "static/js/2.890f412a.chunk.js.map": "/static/js/2.890f412a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fc29dff98c98b9d82d2bd4726e6c18af.js": "/precache-manifest.fc29dff98c98b9d82d2bd4726e6c18af.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.be34dabf.chunk.css.map": "/static/css/main.be34dabf.chunk.css.map",
+    "static/js/2.890f412a.chunk.js.LICENSE.txt": "/static/js/2.890f412a.chunk.js.LICENSE.txt",
+    "static/media/bistrologo.png": "/static/media/bistrologo.9007e0d8.png",
+    "static/media/bistrotext.png": "/static/media/bistrotext.3e5bc30a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20628b47.js",
+    "static/js/2.890f412a.chunk.js",
+    "static/css/main.be34dabf.chunk.css",
+    "static/js/main.d87996cc.chunk.js"
+  ]
+}
