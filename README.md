@@ -1,2 +1,3 @@
+Built using ReactJS, NodeJS, ExpressJS, MongoDB.
 
-![Website Screenshot](https://github.com/vj-creation/Bistro-app/Capture.jpg)
+![Website Screenshot](Capture.JPG)
