@@ -1,2 +1,2 @@
 
-![Website Screenshot](/Capture.jpg?raw=true "Title")
+![Website Screenshot](https://github.com/vj-creation/Bistro-app/Capture.jpg)
